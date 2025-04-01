@@ -1,16 +1,39 @@
-## Hi there 👋
+🕹️ Bem-vindo ao meu perfil!
 
-<!--
-**Gabriel4545855/Gabriel4545855** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ Desenvolvedor iniciante apaixonado por tecnologia e jogos!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🎮 Sobre mim:
+
+🧑‍💻 Explorando o mundo da programação <br> 🔍 Aprendendo mais sobre desenvolvimento web <br> 🎨 Design inspirado no estilo 8-bits <br>
+
+
+---
+
+🚀 Tecnologias e Ferramentas:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
+</div>
+---
+
+📊 Minhas Estatísticas:
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gabriel4545855&show_icons=true&theme=gruvbox" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel4545855&layout=compact&langs_count=6&theme=gruvbox" />
+</div>
+
+
+---
+
+🌎 Onde me encontrar:
+
+📧 Email: gabrieltulio3008@gmail.com 
+🔗 Portfólio: [Em breve!]
+
+📢 Sempre em busca de novos desafios!
+
